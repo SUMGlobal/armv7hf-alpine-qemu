@@ -1,3 +1,3 @@
-FROM resin/armhf-alpine:3.4
+FROM resin/armhf-alpine:edge
 
 COPY bin/ /usr/bin/
